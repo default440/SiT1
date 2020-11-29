@@ -1,0 +1,13 @@
+P:\C++\SiT1\CSharp - Server\bin\Debug\netcoreapp3.1\CSharp - Server.exe
+P:\C++\SiT1\CSharp - Server\bin\Debug\netcoreapp3.1\CSharp - Server.deps.json
+P:\C++\SiT1\CSharp - Server\bin\Debug\netcoreapp3.1\CSharp - Server.runtimeconfig.json
+P:\C++\SiT1\CSharp - Server\bin\Debug\netcoreapp3.1\CSharp - Server.runtimeconfig.dev.json
+P:\C++\SiT1\CSharp - Server\bin\Debug\netcoreapp3.1\CSharp - Server.dll
+P:\C++\SiT1\CSharp - Server\bin\Debug\netcoreapp3.1\CSharp - Server.pdb
+P:\C++\SiT1\CSharp - Server\obj\Debug\netcoreapp3.1\CSharp - Server.csprojAssemblyReference.cache
+P:\C++\SiT1\CSharp - Server\obj\Debug\netcoreapp3.1\CSharp - Server.AssemblyInfoInputs.cache
+P:\C++\SiT1\CSharp - Server\obj\Debug\netcoreapp3.1\CSharp - Server.AssemblyInfo.cs
+P:\C++\SiT1\CSharp - Server\obj\Debug\netcoreapp3.1\CSharp - Server.csproj.CoreCompileInputs.cache
+P:\C++\SiT1\CSharp - Server\obj\Debug\netcoreapp3.1\CSharp - Server.dll
+P:\C++\SiT1\CSharp - Server\obj\Debug\netcoreapp3.1\CSharp - Server.pdb
+P:\C++\SiT1\CSharp - Server\obj\Debug\netcoreapp3.1\CSharp - Server.genruntimeconfig.cache

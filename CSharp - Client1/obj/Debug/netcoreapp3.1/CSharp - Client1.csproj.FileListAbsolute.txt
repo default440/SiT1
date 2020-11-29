@@ -1,0 +1,13 @@
+P:\C++\SiT1\CSharp - Client1\bin\Debug\netcoreapp3.1\CSharp - Client1.exe
+P:\C++\SiT1\CSharp - Client1\bin\Debug\netcoreapp3.1\CSharp - Client1.deps.json
+P:\C++\SiT1\CSharp - Client1\bin\Debug\netcoreapp3.1\CSharp - Client1.runtimeconfig.json
+P:\C++\SiT1\CSharp - Client1\bin\Debug\netcoreapp3.1\CSharp - Client1.runtimeconfig.dev.json
+P:\C++\SiT1\CSharp - Client1\bin\Debug\netcoreapp3.1\CSharp - Client1.dll
+P:\C++\SiT1\CSharp - Client1\bin\Debug\netcoreapp3.1\CSharp - Client1.pdb
+P:\C++\SiT1\CSharp - Client1\obj\Debug\netcoreapp3.1\CSharp - Client1.csprojAssemblyReference.cache
+P:\C++\SiT1\CSharp - Client1\obj\Debug\netcoreapp3.1\CSharp - Client1.AssemblyInfoInputs.cache
+P:\C++\SiT1\CSharp - Client1\obj\Debug\netcoreapp3.1\CSharp - Client1.AssemblyInfo.cs
+P:\C++\SiT1\CSharp - Client1\obj\Debug\netcoreapp3.1\CSharp - Client1.csproj.CoreCompileInputs.cache
+P:\C++\SiT1\CSharp - Client1\obj\Debug\netcoreapp3.1\CSharp - Client1.dll
+P:\C++\SiT1\CSharp - Client1\obj\Debug\netcoreapp3.1\CSharp - Client1.pdb
+P:\C++\SiT1\CSharp - Client1\obj\Debug\netcoreapp3.1\CSharp - Client1.genruntimeconfig.cache

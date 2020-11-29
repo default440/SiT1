@@ -1,0 +1,7 @@
+P:\C++\SiT1\Translate\bin\Debug\Translate.exe.config
+P:\C++\SiT1\Translate\bin\Debug\Translate.exe
+P:\C++\SiT1\Translate\bin\Debug\Translate.pdb
+P:\C++\SiT1\Translate\obj\Debug\Translate.csprojAssemblyReference.cache
+P:\C++\SiT1\Translate\obj\Debug\Translate.csproj.CoreCompileInputs.cache
+P:\C++\SiT1\Translate\obj\Debug\Translate.exe
+P:\C++\SiT1\Translate\obj\Debug\Translate.pdb
